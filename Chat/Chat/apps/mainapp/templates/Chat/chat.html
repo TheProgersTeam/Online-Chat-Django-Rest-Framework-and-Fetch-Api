@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chat page</title>
+        <script type="text/javascript" src="{% static 'js/chat.js' %}"></script>
+    </head>
+    <body>
+        <!-- chat container -->
+        <div id="main">
+            <div id="chat">
+                <div id="message"></div>
+            </div>
+        </div>
+
+        <!-- message from -->
+        <input id="message_text" type="text" name="message_text" placeholder="Type message...">
+        <button onclick="PostRequest()">Send</button>
+    </body>
+</html>
