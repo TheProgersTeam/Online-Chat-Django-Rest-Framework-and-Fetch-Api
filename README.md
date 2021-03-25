@@ -8,5 +8,3 @@
 2) write the command "pip install -r requirements.txt"
 3) then, in the console go to the "Chat" folder
 4) write the command "python manage.py runserver"
-
-Made with ❤️ by TheProgersTeam
