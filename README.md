@@ -1,10 +1,18 @@
-# Online-Chat-Django-Rest-Framework-and-Fetch-Api
+# Online Chat with Django Rest Framework and Fetch Api
 
-👾 An example of a simple online chat using the DjangoRestFramework and Fetch Api.
+## What is it?
+An example of a simple online chat using the DjangoRestFramework and Fetch Api.
 
-👉 Follow these steps to run the project:
+## What used?
+* Python 3.7+
+* Django 3
+* Django Rest Framework
+* JavaScript ES9
+* JS Fetch Api
+* CSS 3
+* HTML 5
 
-1) in the console go to the "Online-Chat-Django-Rest-Framework-and-Fetch-Api" folder
-2) write the command "pip install -r requirements.txt"
-3) then, in the console go to the "Chat" folder
-4) write the command "python manage.py runserver"
+## How to run?
+In order to run this project you need:
+1) Installation `requarements.txt` file with the `pip install -r requarements.txt` command
+2) Run `Chat` with the `python manage.py runserver` command
